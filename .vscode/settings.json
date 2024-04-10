@@ -1,0 +1,12 @@
+{
+    "idf.portWin": "COM8",
+    "idf.adapterTargetName": "esp32s3",
+    "idf.openOcdConfigs": [
+        "board/esp32s3-bridge.cfg"
+    ],
+    "idf.flashType": "UART",
+    "files.associations": {
+        "networking_utils.h": "c",
+        "dsdv_protocol.h": "c"
+    }
+}
